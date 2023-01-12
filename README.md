@@ -46,7 +46,7 @@
 ![App Screenshot](https://i.ibb.co/SBnxwt8/Screenshot-2.png)
 Страница регестрации.
 ![App Screenshot](https://i.ibb.co/mRyKCpd/Screenshot-3.png)
-Страница выбора автомобиля/страница управления автопарка.
+Страница выбора автомобиля/страница управления автопарка(Присутствуют элементы управления администратора, для обычного пользователя их нет).
 ![App Screenshot](https://i.ibb.co/f40sW6D/Screenshot-4.png)
 Панель администратора.
 ![App Screenshot](https://i.ibb.co/zr17TY9/Screenshot-5.png)
